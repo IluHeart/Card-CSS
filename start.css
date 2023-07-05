@@ -1,0 +1,15 @@
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.descript {
+    margin: 15px;
+}
+
+.contPrincipal {
+    width: 300px;
+    border: 2px solid rgb(187, 187, 187);
+    border-radius: 10px;
+}
